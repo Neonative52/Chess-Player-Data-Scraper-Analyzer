@@ -15,11 +15,11 @@ This project provides an end-to-end solution for collecting, processing, and vis
     * Utilizes Pandas for structuring and manipulating raw scraped data into a clean, tabular CSV format.
 
 * **Interactive Power BI Dashboard:**
-    * [cite_start]**Visualizes key metrics** such as total players, grandmasters, international masters, and their distribution across countries[cite: 1].
-    * [cite_start]**Presents detailed player information**, including individual ratings and world/national ranks[cite: 2].
-    * [cite_start]**Showcases top 10 players** for Classical, Rapid, and Blitz formats[cite: 3].
-    * [cite_start]**Displays national team compositions** and average ratings[cite: 4].
-    * [cite_start]**Features intuitive navigation** through custom buttons, enhancing user experience across different report sections[cite: 1, 2, 3, 4].
+    * **Visualizes key metrics** such as total players, grandmasters, international masters, and their distribution across countries[cite: 1].
+    * **Presents detailed player information**, including individual ratings and world/national ranks[cite: 2].
+    * **Showcases top 10 players** for Classical, Rapid, and Blitz formats[cite: 3].
+    * **Displays national team compositions** and average ratings[cite: 4].
+    * **Features intuitive navigation** through custom buttons, enhancing user experience across different report sections[cite: 1, 2, 3, 4].
     * **Implements advanced DAX measures** to derive actionable insights, such as average classical ratings for teams and comparative player statistics.
 
 ## Technologies Used
