@@ -1,5 +1,4 @@
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import time
 import pandas as pd
@@ -49,4 +48,4 @@ player_country = [country.replace(
 df = pd.DataFrame({'Name': names, 'Title': titles, 'Country': player_country,
                   'Classical Rating': classical, 'Rapid Rating': rapid, 'Blitz Rating': blitz})
 df.to_csv('chess_ratings.csv', index=False)
-print(df)
+
